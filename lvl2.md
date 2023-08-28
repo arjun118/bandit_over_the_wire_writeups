@@ -1,0 +1,1 @@
+to output the contents of a file whose filename has spaces using cat, you need to wrap the file with "".

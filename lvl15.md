@@ -1,0 +1,9 @@
+>The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
+
+login into the remote machine ,
+
+```bash
+
+nc localhost 30000
+```
+paste the pass for this level and you will get the pass for the next level
